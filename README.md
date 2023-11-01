@@ -4,5 +4,10 @@ This is the first file in this repo.
 
 ## Ipsum Below 
 
-Text include here
+Text included here 
+
+## Website Contents 
+
+1. index.html
+
 
